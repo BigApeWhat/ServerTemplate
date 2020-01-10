@@ -1,0 +1,19 @@
+{
+  "name": "lawtigers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "nodemon app.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Law Tigers",
+  "license": "ISC",
+  "dependencies": {
+    "bunyan": "^1.8.12",
+    "express": "^4.17.1",
+    "express-unless": "^0.5.0",
+    "lodash": "^4.17.15",
+    "on-response": "^1.0.1"
+  }
+}
